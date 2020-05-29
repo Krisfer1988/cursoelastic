@@ -1,0 +1,71 @@
+instances:
+  - name: maestro1
+    dns:
+      - maestro1 
+      - localhost
+    ip:
+      - 127.0.0.1
+
+  - name: maestro2
+    dns:
+      - maestro2
+      - localhost
+    ip:
+      - 127.0.0.1
+
+  - name: data1
+    dns:
+      - data1
+      - localhost
+    ip:
+      - 127.0.0.1
+
+  - name: data2
+    dns:
+      - data2
+      - localhost
+    ip:
+      - 127.0.0.1
+
+  - name: data3
+    dns:
+      - data3
+      - localhost
+    ip:
+      - 127.0.0.1
+      
+
+  - name: data4
+    dns:
+      - data4
+      - localhost
+    ip:
+      - 127.0.0.1
+
+  - name: ingesta1
+    dns:
+      - ingesta1
+      - localhost
+    ip:
+      - 127.0.0.1
+
+  - name: ingesta2
+    dns:
+      - ingesta2
+      - localhost
+    ip:
+      - 127.0.0.1
+      
+  - name: coordinador1
+    dns:
+      - coordinador1
+      - localhost
+    ip:
+      - 127.0.0.1
+
+  - name: kibana
+    dns:
+      - kibana
+      - localhost
+    ip:
+      - 127.0.0.1

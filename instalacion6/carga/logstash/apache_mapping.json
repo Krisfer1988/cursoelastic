@@ -1,0 +1,10 @@
+{
+    "index_patterns": ["apache-*"],
+    "mappings": {
+       "properties": {
+        "bytes" : {"type" : "integer"},
+        "response" : {"type" : "integer"},
+        "clientip" : {"type" : "ip"}
+       }
+    }
+}
